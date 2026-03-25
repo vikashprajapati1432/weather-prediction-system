@@ -14,7 +14,6 @@ env/
 venv/
 ENV/
 
-# Data and Models (Optional: exclude large csv)
+# Data (Optional: exclude large csv)
 weatherAUS.csv
-models/*.pkl
-eda/*.png
+# eda/*.png
